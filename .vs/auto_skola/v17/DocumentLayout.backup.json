@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|c:\\users\\ideapadgaming\\source\\repos\\auto_skola\\auto_skola\\repositories\\kandidatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\repositories\\kandidatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F97BD0-0542-4CA9-AB15-95B615B815E5}|auto_skola\\auto_skola.csproj|solutionrelative:auto_skola\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form1.cs",
+              "RelativeDocumentMoniker": "auto_skola\\Form1.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form1.cs [Design]",
+              "RelativeToolTip": "auto_skola\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:44:53.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kandidatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\repositories\\kandidatRepository.cs",
+              "RelativeDocumentMoniker": "auto_skola\\repositories\\kandidatRepository.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\repositories\\kandidatRepository.cs",
+              "RelativeToolTip": "auto_skola\\repositories\\kandidatRepository.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAowCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:15:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form2.cs",
+              "RelativeDocumentMoniker": "auto_skola\\Form2.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form2.cs",
+              "RelativeToolTip": "auto_skola\\Form2.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:10:10.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kandidat.cs",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\models\\kandidat.cs",
+              "RelativeDocumentMoniker": "auto_skola\\models\\kandidat.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\models\\kandidat.cs",
+              "RelativeToolTip": "auto_skola\\models\\kandidat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:10:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form2.cs",
+              "RelativeDocumentMoniker": "auto_skola\\Form2.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form2.cs [Design]",
+              "RelativeToolTip": "auto_skola\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:59:44.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form1.cs",
+              "RelativeDocumentMoniker": "auto_skola\\Form1.cs",
+              "ToolTip": "C:\\Users\\IDEAPADgaming\\source\\repos\\auto_skola\\auto_skola\\Form1.cs",
+              "RelativeToolTip": "auto_skola\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:50:39.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
